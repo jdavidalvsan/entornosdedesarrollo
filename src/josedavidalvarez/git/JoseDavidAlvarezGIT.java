@@ -16,7 +16,7 @@ public class JoseDavidAlvarezGIT {
     // José David Álvarez Sánchez
     public static void main(String[] args) {
         int valor;
-        valor = 6;
+        valor = 11;
         System.out.println("Valor = " + valor);
     }
     
