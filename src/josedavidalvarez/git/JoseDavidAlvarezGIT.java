@@ -18,6 +18,4 @@ public class JoseDavidAlvarezGIT {
         int valor;
         valor = 10;
         System.out.println("Valor = " + valor);
-    }
-    
-}
+    }    
